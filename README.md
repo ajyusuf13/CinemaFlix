@@ -1,5 +1,8 @@
 # CinemaFlix
 
+CinemaFlix is a mock cinema application that allows users to search for any movie and purchase them if they wish.
+- Technologies Used: Java, Javascript, React, Spring, SpringBoot, Stripe API, CSS (styled components library), Axios, MySQL
+
 ### Register Screen
 <img width="1440" alt="Screen Shot 2022-08-31 at 5 06 10 PM" src="https://user-images.githubusercontent.com/93426072/187805927-efb746c9-d261-4db4-bed5-afb95942e272.png">
 
