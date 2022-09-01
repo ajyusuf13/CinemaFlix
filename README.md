@@ -12,5 +12,5 @@
 ### Movie Detail
 <img width="1440" alt="Screen Shot 2022-08-31 at 5 08 38 PM" src="https://user-images.githubusercontent.com/93426072/187805996-cf605aa1-e832-438b-885b-c55f0c16f93f.png">
 
-
+### Application Interaction Gif
 ![](https://github.com/ajyusuf13/CinemaFlix/blob/main/ezgif.com-gif-maker.gif)
